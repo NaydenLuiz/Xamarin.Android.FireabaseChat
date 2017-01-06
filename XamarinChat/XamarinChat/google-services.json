@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "874805426337",
+    "firebase_url": "https://chatplugin-68a95.firebaseio.com",
+    "project_id": "chatplugin-68a95",
+    "storage_bucket": "chatplugin-68a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874805426337:android:eadc7e4de1414481",
+        "android_client_info": {
+          "package_name": "XamarinChat.XamarinChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874805426337-ln8tatfb1cp9dohu880khq8kn08d1ui3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "XamarinChat.XamarinChat",
+            "certificate_hash": "62EA3783687B18C0AC2171E2D49D645511F200B2"
+          }
+        },
+        {
+          "client_id": "874805426337-bmh4e2khshh20e3hn4mnro3vn6uhhmpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEyJKeRBFureeLc6JtykQUXW1RJmcxI6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874805426337-bmh4e2khshh20e3hn4mnro3vn6uhhmpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874805426337-2g92vjfaa72eeruh7e1uteg4ji26josf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Bimore-LTDA.ChatPlugin"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
